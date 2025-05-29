@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PomniConfused.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pomni0000" x="5" y="5" width="543" height="508"/>
+	<SubTexture name="pomni0001" x="5" y="5" width="543" height="508"/>
+	<SubTexture name="pomni0002" x="5" y="533" width="543" height="508"/>
+	<SubTexture name="pomni0003" x="5" y="533" width="543" height="508"/>
+</TextureAtlas>
